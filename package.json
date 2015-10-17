@@ -1,0 +1,44 @@
+{
+  "name": "deep-get",
+  "version": "1.0.0",
+  "description": "Automating sub select and normalization for a REST API",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timthesinner/deep-get.git"
+  },
+  "keywords": [
+    "get",
+    "sub",
+    "select",
+    "deep",
+    "deep-get",
+    "sub-select",
+    "REST",
+    "normalize",
+    "normalization"
+  ],
+  "author": {
+    "name": "TimTheSinner",
+    "email": "timthesinner@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "TimTheSinner",
+      "email": "timthesinner@gmail.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/timthesinner/deep-get/issues"
+  },
+  "homepage": "https://github.com/timthesinner/deep-get#readme",
+  "dependencies": {
+    "q": "^1.4.1",
+    "underscore": "^1.8.3",
+    "utils-deep-get": "^1.0.0"
+  }
+}
