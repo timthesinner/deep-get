@@ -1,6 +1,6 @@
 {
   "name": "deep-get",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Automating sub select and normalization for a REST API",
   "main": "./lib",
   "scripts": {
@@ -38,7 +38,9 @@
   "homepage": "https://github.com/timthesinner/deep-get#readme",
   "dependencies": {
     "q": "^1.4.1",
-    "underscore": "^1.8.3",
-    "utils-deep-get": "^1.0.0"
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "rally": "^0.2.0"
   }
 }
